@@ -1,0 +1,10 @@
+{
+    "Navigation": {
+        "title": "Aplicação",
+        "home": "Início",
+        "settings": "Configurações"
+    },
+    "Home": {
+        "title": "Bem Vindo"
+    }
+}
